@@ -1,6 +1,6 @@
 - 👋 Hi, I’m bruno gatiba
 - 👀 I’m interested in webdevelopment and Iot 
-- 🌱 I’m currently perfecting mu skills in web development and js 
+- 🌱 I’m currently perfecting my skills in web development and js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
