@@ -1,8 +1,8 @@
 - 👋 Hi, I’m bruno gatiba
-- 👀 I’m interested in webdevelopment and Iot 
-- 🌱 I’m currently perfecting my skills in web development and js 
+- 👀 I’m interested in webdevelopment and Iot (Internet Of Things) and crypto currency .
+- 🌱 I’m currently perfecting my skills in web development , js and Angular 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me email me @brunolalpachino@gmail.com
 
 <!---
 ch1n069/ch1n069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
