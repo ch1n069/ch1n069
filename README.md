@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m bruno gatiba
-- 👀 I’m a webdevelopment with keen interest in Iot (Internet Of Things) , crypto currency , smart contracts
+- 👀 I’m a webdevelopment with keen interest in   crypto currency , smart contracts
 - 🌱  Currently perfecting my skills in web development using react , Angular , Django
 - 📫 How to reach me email me @brunolalpachino@gmail.com
 
