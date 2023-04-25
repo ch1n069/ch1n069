@@ -1,4 +1,5 @@
-- 👋 Hi there, I’m bruno gatiba
+### Hi there 👋, I’m Bruno Gatiba
+Im a software developer 
 - 👀 I’m a web developer with keen interest in   crypto currency , smart contracts
 - 🌱  Skilled in React , Angular , Django ,Python , postgres , Html css, Javascript , 
 - 📫 How to reach me email me @brunolalpachino@gmail.com
