@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch1n069" alt="ch1n069" /></a> </p>
 
-- 🔭 I’m currently working on **a react native application targeting both iOS and android platforms .**
+- 🔭 I’m currently working on ** react native application targeting both iOS and android platforms .**
 
 - 🌱 I’m currently learning **React native , Php , Web3 ,AWS ,Docker**
 
