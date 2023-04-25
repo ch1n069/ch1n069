@@ -43,7 +43,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ch1n069&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <figure><embed src="https://wakatime.com/share/@719f399b-d637-477b-b4a8-e5a3a0897bb8/4eb8c164-43ee-4a20-99dc-cfc709f09d1b.svg"></embed></figure>
-# Stats 
+## Stats 
 
 [![](https://raw.githubusercontent.com/ch1n069/Bruno-Gatiba/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ch1n069/Bruno-Gatiba/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ch1n069/Bruno-Gatiba/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
