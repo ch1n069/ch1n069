@@ -49,3 +49,6 @@
 [![](https://raw.githubusercontent.com/ch1n069/Bruno-Gatiba/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ch1n069/Bruno-Gatiba/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ch1n069/Bruno-Gatiba/master/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ch1n069/Bruno-Gatiba/master/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+<h3 align="left">WakaTime : </h3>
+
+<figure><embed src="https://wakatime.com/share/@719f399b-d637-477b-b4a8-e5a3a0897bb8/0819ad6e-3e9d-431b-9829-a89aff059714.svg"></embed></figure>
