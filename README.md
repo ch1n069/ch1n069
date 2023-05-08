@@ -51,4 +51,5 @@
 
 <h3 align="left">WakaTime : </h3>
 
-<figure><embed src="https://wakatime.com/share/@719f399b-d637-477b-b4a8-e5a3a0897bb8/0819ad6e-3e9d-431b-9829-a89aff059714.svg"></embed></figure>
+  <img src="https://github.com/<username>/<repository-name>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+  Example: <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="My Coding Activity/>
