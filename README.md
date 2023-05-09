@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **projects that will challenge me to go the extra mile**
 
-- 🧠 Im gorvened by the following Mantra **"Code is read much more often than it is written." Before I forget Refactor mercilessly.**
+- 🧠 **"Code is read much more often than it is written." Before I forget Refactor mercilessly.**
 
-- 👨‍💻 All of my projects are availe at [https://github.com/ch1n069](https://github.com/ch1n069)
+- 👨‍💻 All of my projects are available at [https://github.com/ch1n069](https://github.com/ch1n069)
 
 - 💬 Ask me about **ReactJs, Python,Django,React-Native,Angular,Redux**
 
