@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bruno Gatiba</h1>
-<h3 align="center">A passionate fullstack developer from Kenya 🇰🇪</h3>
+<h3 align="center">A passionate fullstack software developer from Kenya 🇰🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch1n069&label=Profile%20views&color=0e75b6&style=flat" alt="ch1n069" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch1n069" alt="ch1n069" /></a> </p>
 
-- 🔭 I’m currently working on ** react native application targeting both iOS and android platforms .**
+- 🔭 Currently working on ** react native application targeting both iOS and android platforms .**
 
-- 🌱 I’m currently learning **React native , Php , Web3 ,AWS ,Docker**
+- 🌱  learning **React native , Php , Web3 ,AWS ,Docker**
 
 - 👯 I’m looking to collaborate on **projects that will challenge me to go the extra mile**
 
