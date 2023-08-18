@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="./name.svg" ></h1>
+<h1 align="center"><img src="./nam.svg" ></h1>
 <h3 align="center">A passionate fullstack software developer </h3>
 
 <p align="center" style="padding:20px;"> <img src="https://komarev.com/ghpvc/?username=ch1n069&label=Profile%20views&color=0e75b6&style=flat" alt="ch1n069" /> </p>
