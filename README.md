@@ -30,6 +30,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<!-----table to display the data --->
 <table>
   <tr>
     <td>
@@ -37,8 +38,10 @@
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
       </a>
     </td>
-    <td>
-      <!-- Add more cells as needed for other tools -->
+     <td>
+      <a href="https://angular.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
+      </a>
     </td>
   </tr>
   <!-- Add more rows as needed for other languages and tools -->
