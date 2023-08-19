@@ -31,7 +31,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <!-----table to display the data --->
-<table>
+<table width: 100%; >
   <tr>
     <td>
       <a href="https://angular.io" target="_blank" rel="noreferrer">
