@@ -109,9 +109,18 @@
   </tr>
   <!-- Add more rows as needed for other languages and tools -->
 </table>
+<h2>Stats:</h2>
+<table>
+  <tr>
+    <td>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ch1n069&show_icons=true&locale=en&layout=compact" alt="ch1n069" /></p>
+      
+    </td>
+  </tr>
+</table>
 </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ch1n069&show_icons=true&locale=en&layout=compact" alt="ch1n069" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ch1n069&show_icons=true&locale=en" alt="ch1n069" /></p>
 
