@@ -120,6 +120,14 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ch1n069&show_icons=true&locale=en" alt="ch1n069" /></p>
     
   </td>
+ <tr>
+   <td>
+   
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch1n069&" alt="ch1n069" /></p>
+
+     
+   </td>
+ </tr>
    
   </tr>
 </table>
@@ -128,8 +136,6 @@
 
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ch1n069&" alt="ch1n069" /></p>
 
 
 
