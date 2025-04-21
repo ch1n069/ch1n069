@@ -5,23 +5,19 @@
 <p align="center" style="padding:20px;"> <img src="https://komarev.com/ghpvc/?username=ch1n069&label=Profile%20views&color=0e75b6&style=flat" alt="ch1n069" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch1n069" alt="ch1n069" /></a> </p>
-- 🪝 Im all about hooks 😂
+- Creating solutions to everyday problems
 
-- 🔭 Currently working on ** react native application targeting both iOS and android platforms .**
-
-- 👯 I’m looking to collaborate on **projects that will challenge me to go the extra mile**
+- 🔭 Currently working on **SAAS product**
 
 - 🧠 **"Code is read much more often than it is written." Before I forget Refactor mercilessly.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ch1n069](https://github.com/ch1n069)
 
-- 💬 Ask me about **ReactJs, Python,Django,React-Native,Angular,Redux**
+- 💬 Ask me about **Node Js, Typescript,Docker,Kubernetes ReactJs, Python,Django,React-Native,Angular,Redux**
 
 - 📫 How to reach me **brunolalpachino@gmail.com**
 
 - 📄 Know about my experiences [https://brunos-portfolio.netlify.app/](https://brunos-portfolio.netlify.app/)
-
-- ⚡ Fun fact **Did you know that programmers are actually just really good at googling?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
